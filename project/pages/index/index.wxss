@@ -1,0 +1,6 @@
+.my-input{
+  border: 1px solid green;
+}
+.my-textarea{
+  border: 1px solid red;
+}

@@ -1,0 +1,4 @@
+<view>
+  <input v-model="inputValue" class="my-input" />
+  <textarea v-model="textareaValue" class="my-textarea" />
+</view>

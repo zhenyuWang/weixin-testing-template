@@ -1,0 +1,6 @@
+Page({
+  data: {
+    inputValue: '',
+    textareaValue: ''
+  }
+})
